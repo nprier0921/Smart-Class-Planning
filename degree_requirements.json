@@ -1,0 +1,150 @@
+{
+  "program": "Computer Science (B.S.) - Software Systems Track",
+  "source": "Columbus State University Software Systems Track PDF supplied with the project; Major Requirements, page 2",
+  "note": "Course titles and credit values used for the Software Systems class project.",
+  "courses": {
+    "POLS 1101": {
+      "title": "American Government",
+      "credits": 3,
+      "group": "Core IMPACTS"
+    },
+    "ENGL 1101": {
+      "title": "English Composition I",
+      "credits": 3,
+      "group": "Core IMPACTS"
+    },
+    "ENGL 1102": {
+      "title": "English Composition II",
+      "credits": 3,
+      "group": "Core IMPACTS"
+    },
+    "CPSC 1301K": {
+      "title": "Computer Science I",
+      "credits": 4,
+      "group": "Field of Study"
+    },
+    "CPSC 1302K": {
+      "title": "Computer Science II",
+      "credits": 4,
+      "group": "Field of Study"
+    },
+    "CPSC 2105": {
+      "title": "Computer Organization",
+      "credits": 3,
+      "group": "Field of Study"
+    },
+    "CYBR 2159": {
+      "title": "Fundamentals of Computer Networks",
+      "credits": 3,
+      "group": "Field of Study"
+    },
+    "CYBR 2160": {
+      "title": "Intro to Information Security",
+      "credits": 3,
+      "group": "Field of Study"
+    },
+    "MATH 1113": {
+      "title": "Pre-Calculus",
+      "credits": 4,
+      "group": "Field of Study"
+    },
+    "CPSC 2108": {
+      "title": "Data Structures",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 3125": {
+      "title": "Operating Systems",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 3131": {
+      "title": "Database Systems I",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 3165": {
+      "title": "Professionalism in Computing",
+      "credits": 2,
+      "group": "Required Major"
+    },
+    "CPSC 3175": {
+      "title": "Object-Oriented Design",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4000": {
+      "title": "Baccalaureate Survey",
+      "credits": 0,
+      "group": "Required Major"
+    },
+    "CPSC 4115": {
+      "title": "Algorithms",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4148": {
+      "title": "Theory of Computation",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4155": {
+      "title": "Computer Architecture",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4157": {
+      "title": "Computer Networks",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4175": {
+      "title": "Software Engineering",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4176": {
+      "title": "Senior Software Engineering Project",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 4185": {
+      "title": "Artificial Intelligence and Machine Learning",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "MATH 2125": {
+      "title": "Introduction to Discrete Mathematics",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "MATH 5125U": {
+      "title": "Discrete Mathematics",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "STAT 1401": {
+      "title": "Elementary Statistics",
+      "credits": 3,
+      "group": "Required Major"
+    },
+    "CPSC 3121": {
+      "title": "Assembly Language Programming I",
+      "credits": 3,
+      "group": "DegreeWorks sample requirement"
+    },
+    "CPSC 4135": {
+      "title": "Programming Languages",
+      "credits": 3,
+      "group": "DegreeWorks sample requirement"
+    }
+  },
+  "unmodeled_requirements": [
+    "42-credit Core IMPACTS: multiple choice areas and lab-science requirement",
+    "5 credits of upper-level CPSC/CYBR electives",
+    "Two mathematics electives from MATH 1131, 1132, 1501, 3115, 5114U, subject to catalog-year rules",
+    "0\u20132 general elective credits",
+    "Minimum grade C in specified CPSC/CYBR/major courses",
+    "MATH 1113 credit allocation between Field of Study and Required for Major requires audit-based handling"
+  ]
+}

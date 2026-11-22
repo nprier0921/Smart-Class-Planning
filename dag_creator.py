@@ -57,4 +57,3 @@ class DAGCreator:
 
     def get_courses(self):
         return list(self.graph.nodes)
-       

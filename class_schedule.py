@@ -1,6 +1,9 @@
 import csv
 from pathlib import Path
 
+# Stores the folder containing this Python file.
+PROJECT_DIR = Path(__file__).resolve().parent
+
 
 # Stores one scheduled course offering.
 class CourseOffering:
@@ -376,10 +379,11 @@ def print_course_offerings(
 # Runs a basic test when the file executes directly.
 if __name__ == "__main__":
 
-    # Defines the location of the third input file.
-    schedule_file = (
-        "data/course_schedule.csv"
-    )
+    # Creates the full path to the class schedule input file.
+    schedule_file = PROJECT_DIR / "data" / "course_schedule.csv"
+
+    print("Looking for schedule at:", schedule_file)
+    print("Schedule exists:", schedule_file.exists())
 
     try:
         # Loads and validates the class schedule.
