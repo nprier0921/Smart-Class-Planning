@@ -17,6 +17,7 @@ The Smart Class Planning Tool is a Python desktop application designed to assist
   - openpyxl
 
 Install the required packages with:
+
 py -3.14 -m pip install pypdf networkx matplotlib openpyxl
 
 ### Installing
@@ -61,6 +62,7 @@ If the program does not run:
 - Check that the required Python packages are installed.
 
 If dependencies need to be installed again, run:
+
 py -3.14 -m pip install pypdf networkx matplotlib openpyxl
 
 The included course_schedule.csv is a small test dataset and does not represent live course availability. Therefore, some courses may appear under 'Unscheduled' when using Sample Input1.pdf.
